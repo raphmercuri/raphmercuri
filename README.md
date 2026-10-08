@@ -39,12 +39,12 @@ Academic Proof of Concept simulating a local Command & Control infrastructure fo
 ## GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphmercuri&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphmercuri&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphmercuri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphmercuri&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=raphmercuri&theme=transparent&hide_border=true" height="150" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=raphmercuri&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak" />
 </p>
 
 ---
