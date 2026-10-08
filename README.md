@@ -1,23 +1,56 @@
 # Rafael Nascimento Santos
 
-> **Estudante de Análise e Desenvolvimento de Sistemas | Cibersegurança & Backend**  
-> Focado em entender a tecnologia a fundo, desde a arquitetura de software até a integração com hardware e segurança de redes. Atualmente no último ciclo na FATEC Botucatu.
+**Cybersecurity Student · AppSec · Red Team**
 
-### 💻 Stack e Ferramentas
-* **Linguagens:** Python, Java, C, SQL
-* **Segurança:** Fundamentos de Pentest, AppSec, conceitos de Red Team
-* **Infra e Hardware:** Linux, Git, Raspberry Pi (Microcontroladores)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Nascimento%20Santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-nascimento-santos-a6201343a/)
+[![Email](https://img.shields.io/badge/Email-rafaelmercuri%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rafaelmercuri@outlook.com)
 
-### 🚀 Projetos em Destaque
-* **[Servidor C2 & Agente Red Team](#)**: Desenvolvimento de uma infraestrutura de Command & Control para simulações de testes de invasão e estudo de arquitetura de baixo nível *(Repositório será liberado em Novembro)*.
-* **[Controladora Estilo Guitar Hero]([#](https://github.com/raphmercuri/Guitar-Hero-LED))**: Integração hardware-software desenvolvida do zero utilizando dois Raspberry Pi Pico, switches mecânicos e leitura de inputs programada inteiramente em Python.
-* **Processamento de Dados Eleitorais**: Estruturação de um fluxo de dados em tempo real utilizando Looker Studio para suporte à transmissão ao vivo da apuração de votos em rádio local.
+> Cybersecurity student focused on application security and red teaming. I enjoy building low-level tools, analyzing traffic, and understanding how systems break.
 
-### 🏆 Conquistas e Certificações
-* **Top 100 Nacional** - Capture the Flag (CTF) Maratona Cibereducação Cisco
-* **Cybersecurity / Ethical Hacker** - Cisco Networking Academy
-* **IT Essentials** - Cisco Networking Academy
+Currently open to an internship or first opportunity in cybersecurity.
 
-### 📫 Como me encontrar
-* [LinkedIn](https://www.linkedin.com/in/rafael-nascimento-santos-a6201343a/)
-* **Email:** rafaelmercuri@outlook.com
+---
+
+## Focus
+
+![AppSec](https://img.shields.io/badge/AppSec-1F6FEB?style=flat-square)
+![Red Team](https://img.shields.io/badge/Red%20Team-B22222?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-24292F?style=flat-square)
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+## Projects
+
+### [Guitar-Hero-LED](https://github.com/raphmercuri/Guitar-Hero-LED)
+A 1D Guitar Hero clone powered by Raspberry Pi Pico 2W and WS2812B LED strips. It features ultra-low latency wireless UDP communication between a custom guitar and the game engine, plus an ESP32 for audio/LCD sync. Includes scoring, multipliers, sustain notes, and Star Power for a complete physical arcade experience.
+
+`Raspberry Pi Pico 2W` `WS2812B` `UDP` `ESP32`
+
+### [server-c2c](https://github.com/raphmercuri/server-c2c)
+Academic Proof of Concept simulating a local Command & Control infrastructure for traffic analysis using Wireshark. Includes a Python Flask-based C2 server that dispatches commands and logs results, alongside a C-based agent that periodically polls the server to execute whitelisted commands.
+
+`Python` `Flask` `C` `Wireshark`
+
+## GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raphmercuri&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphmercuri&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=raphmercuri&theme=transparent&hide_border=true" height="150" alt="GitHub streak" />
+</p>
+
+---
+
+## Contact
+
+Open to internships and first opportunities in cybersecurity / AppSec / Red Team.
+
+[LinkedIn](https://www.linkedin.com/in/rafael-nascimento-santos-a6201343a/) · [rafaelmercuri@outlook.com](mailto:rafaelmercuri@outlook.com)
